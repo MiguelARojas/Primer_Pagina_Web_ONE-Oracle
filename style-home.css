@@ -1,0 +1,61 @@
+.imagen {
+    width: 50%;
+    height: 300px;
+}
+
+.principal {
+    background: #FFF;
+}
+
+h1 {
+    text-align: center;
+}
+body {
+    background: #CCC;
+}
+
+h2 {
+    text-align: center;
+    border: 2px solid #000;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+body {
+    background: #CCC;
+}
+
+p em{
+    font-size: 20px;
+}
+
+ul li {
+    font-style: italic;
+
+}
+
+.diferenciales {
+    background: #FFF;
+}
+
+.diferenciales h3 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagen2 {
+    width: 50%;
+    height: 300px;
+}
